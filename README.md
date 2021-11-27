@@ -7,4 +7,4 @@
 - 💬 Ask me about future tech plans
 - 📫 How to reach me: Twitter Linkdin Facebook
 - 😄 Pronouns: AGBIAOWEI
-- ⚡ Fun fact: I enjoy listening to motivational podcast by Jim Rohn, Les Brown & more..
+- ⚡ Fun fact: I spend 3 Hours daily listening to motivational podcast by Jim Rohn, Les Brown & more..
