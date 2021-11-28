@@ -13,6 +13,11 @@ Hi, I'm Aaron, a beginner-level Web Developer passionate about creativity and jo
 - HTML
 - CSS
 
+## PROJECT LINKS:
+
+- CV Website (https://aaron-july.github.io/cv/)
+- Personal Website (https://aaron-july.github.io/personalwebsite/)
+
 ## WORK IN PROGRESS:
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Bootstrap, Java & Python 
