@@ -5,7 +5,7 @@
 # AARON JULY
 
 
-Hi, I'm Aaron, a beginner-level Web Developer passionate about creativity and joining the innovation train. My educational background is Business, but my passion for innovation, technology and creating meaningful life-changing projects has taken priority.
+Hi, I'm Aaron, a beginner-level Web Developer passionate about creativity and joining the innovation train to the future. My educational background is Business, but my passion for innovation, technology and creating meaningful life-changing projects has taken priority.
 
 <hr>
 
