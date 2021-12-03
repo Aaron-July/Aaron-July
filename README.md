@@ -15,7 +15,7 @@ Hi, I'm Aaron, a beginner-level Web Developer passionate about creativity and jo
 
 ## PROJECT LINKS:
 
-- CV Website (https://aaron-july.github.io/cv/)
+- CV Website (https://aaron-july.github.io/my-cv/)
 - Personal Website (https://aaron-july.github.io/personalwebsite/)
 
 ## WORK IN PROGRESS:
