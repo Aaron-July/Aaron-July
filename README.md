@@ -1,6 +1,7 @@
 
 
-![AARON JULY](https://pbs.twimg.com/profile_banners/1464728686876188672/1639101218/1500x500)
+![AARON JULY](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aaron-july" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/aaron-july?trk=profile-badge">Aaron July</a></div>
+              )
 
 # AARON JULY
 
