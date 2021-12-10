@@ -1,7 +1,6 @@
 
 
-![AARON JULY]
-(<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aaron-july" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/aaron-july?trk=profile-badge">Aaron July</a></div>)
+![AARON JULY] (https://media-exp1.licdn.com/dms/image/C5616AQHWuHbqaLo5iA/profile-displaybackgroundimage-shrink_200_800/0/1639101026912?e=1644451200&v=beta&t=dFZSYPorW5Dqvxu8f_1ExjaeFvDgNG0LaEovL-yWWrQ)
 
 # AARON JULY
 
