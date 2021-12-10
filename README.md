@@ -5,13 +5,14 @@
 # AARON JULY
 
 
-Hi, I'm Aaron, a beginner-level Web Developer passionate about creativity and joining the innovation train to the future. My educational background is Business, but my passion for innovation, technology and creating meaningful life-changing projects has taken priority.
+Hi, I am a hardworking and highly motivated person, driven to create high-quality and high-performing software to exceed user expectations, always looking to improve my knowledge and to overcome technical challenges.
 
 <hr>
 
 ## SKILLS AND EXPERIENCE:<br>
 - HTML
 - CSS
+- WIREFRAMING
 
 ## PROJECT LINKS:
 
