@@ -1,6 +1,6 @@
 
 
-![AARON JULY](https://pbs.twimg.com/profile_banners/1464728686876188672/1638068567/1500x500)
+![AARON JULY](https://pbs.twimg.com/profile_banners/1464728686876188672/1639101218/1500x500)
 
 # AARON JULY
 
