@@ -13,6 +13,7 @@ Hi, I am a hardworking and highly motivated person, driven to create high-qualit
 - HTML
 - CSS
 - WIREFRAMING
+- Bootstrap
 
 ## PROJECT LINKS:
 
