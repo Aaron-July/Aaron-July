@@ -14,6 +14,7 @@ Hi, I am a prospective Full-stack Developer, hardworking and highly motivated pe
 - CSS
 - WIREFRAMING
 - Bootstrap
+- JavaScript
 
 ## PROJECT LINKS:
 
@@ -23,7 +24,7 @@ Hi, I am a prospective Full-stack Developer, hardworking and highly motivated pe
 
 ## WORK IN PROGRESS:
 - 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Bootstrap, Java & Python 
+- 🌱 I’m currently learning Java & Python 
 - 🤔 I’m seeking to connect with other programmers to help improve my programming skills 
 
 ## SOCIALS:
