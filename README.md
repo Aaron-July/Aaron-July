@@ -5,7 +5,7 @@
 # AARON JULY
 
 
-Hi, I am a prospective Full-stack Developer, hardworking and highly motivated person, driven to create high-quality and high-performing software to exceed user expectations.  Always looking to improve my knowledge and overcome technical challenges
+Hi, I am a prospective Full-stack Developer, hardworking and highly motivated person, driven to create high-quality and high-performing software to exceed user expectations.  Always looking to improve my knowledge and overcome technical challenges.
 
 <hr>
 
