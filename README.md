@@ -21,6 +21,7 @@ Hi, I am a Front-End Developer, hardworking and highly motivated person, driven 
 - CV Website (https://aaron-july.github.io/my-cv/)
 - Personal Website (https://aaron-july.github.io/personalwebsite/)
 - Tindog Website (https://aaron-july.github.io/Tindog-website/)
+- Drum-kit (https://aaron-july.github.io/Drum-Kit/)
 
 ## WORK IN PROGRESS:
 - 🔭 I’m currently working on Web Development 
