@@ -1,6 +1,7 @@
 
-
+![AARON JULY](https://media-exp1.licdn.com/dms/image/D5635AQGjBllJCUT1FQ/profile-framedphoto-shrink_200_200/0/1644333911341?e=1648018800&v=beta&t=eqqx8SVS-mJlFbDt07Q7_Vq9pT_nPIY1isCLkUluBFQ)
 ![AARON JULY](https://media-exp1.licdn.com/dms/image/C5616AQHiijUg6vCBMQ/profile-displaybackgroundimage-shrink_350_1400/0/1642829079723?e=1653523200&v=beta&t=q_Q8k9TSDGHBJW_TeAHrx1j0p3_iIUTPKPls8InWuDM)
+
 
 # AARON JULY
 
