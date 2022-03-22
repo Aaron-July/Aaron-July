@@ -1,6 +1,6 @@
 
 
-![AARON JULY](https://media-exp1.licdn.com/dms/image/C5616AQHWuHbqaLo5iA/profile-displaybackgroundimage-shrink_200_800/0/1639101026912?e=1644451200&v=beta&t=dFZSYPorW5Dqvxu8f_1ExjaeFvDgNG0LaEovL-yWWrQ)
+![AARON JULY](https://www.linkedin.com/in/aaron-july/overlay/background-image/)
 
 # AARON JULY
 
