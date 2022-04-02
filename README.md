@@ -6,16 +6,19 @@
 # AARON JULY
 
 
-Hi, I am a Front-End Developer, hardworking and highly motivated person, driven to create high-quality and high-performing software to exceed user expectations.  Always looking to improve my knowledge and overcome technical challenges.
+A dedicated freelance web developer. I aim to join a leading tech team with goals to build a ready-to-use solution for local clients.
+
 
 <hr>
 
 ## SKILLS AND EXPERIENCE:<br>
-- HTML
-- CSS
-- WIREFRAMING
-- Bootstrap
-- JavaScript
+-  HTML/CSS
+-  Analytical
+-  Responsive design
+-  JavaScript
+-  Interpersonal
+-  Testing and debugging
+-  Back-end basics
 
 ## PROJECT LINKS:
 
