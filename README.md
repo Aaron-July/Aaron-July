@@ -29,7 +29,7 @@ A dedicated freelance web developer. I aim to join a leading tech team with goal
 
 ## WORK IN PROGRESS:
 - 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Java & Python 
+- 🌱 I’m currently learning Python 
 - 🤔 I’m seeking to connect with other programmers to help improve my programming skills 
 
 ## SOCIALS:
