@@ -12,10 +12,13 @@ A dedicated freelance web developer. I aim to join a leading tech team with goal
 <hr>
 
 ## SKILLS AND EXPERIENCE:<br>
--  HTML/CSS
+-  JavaScript
+-  jQuery
+-  Bootstrap
+-  CSS
+-  HTML
 -  Analytical
 -  Responsive design
--  JavaScript
 -  Interpersonal
 -  Testing and debugging
 -  Back-end basics
@@ -26,6 +29,7 @@ A dedicated freelance web developer. I aim to join a leading tech team with goal
 - Personal Website (https://aaron-july.github.io/personalwebsite/)
 - Tindog Website (https://aaron-july.github.io/Tindog-website/)
 - Drum-kit (https://aaron-july.github.io/Drum-Kit/)
+- Simon Game (https://aaron-july.github.io/Simson-Game/)
 
 ## WORK IN PROGRESS:
 - 🔭 I’m currently working on Web Development 
