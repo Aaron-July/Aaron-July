@@ -15,6 +15,7 @@ A dedicated freelance web developer. I aim to join a leading tech team with goal
 -  JavaScript
 -  jQuery
 -  Bootstrap
+-  Wireframing
 -  CSS
 -  HTML
 -  Analytical
