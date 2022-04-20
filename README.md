@@ -26,11 +26,13 @@ A dedicated freelance web developer. I aim to join a leading tech team with goal
 
 ## PROJECT LINKS:
 
-- CV Website (https://aaron-july.github.io/my-cv/)
-- Personal Website (https://aaron-july.github.io/personalwebsite/)
+- Simon Game (https://aaron-july.github.io/Simon-Game/)
 - Tindog Website (https://aaron-july.github.io/Tindog-website/)
 - Drum-kit (https://aaron-july.github.io/Drum-Kit/)
-- Simon Game (https://aaron-july.github.io/Simon-Game/)
+- Personal Website (https://aaron-july.github.io/personalwebsite/)
+- CV Website (https://aaron-july.github.io/my-cv/)
+
+
 
 ## WORK IN PROGRESS:
 - 🔭 I’m currently working on Web Development 
