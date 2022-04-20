@@ -1,6 +1,6 @@
 
-![](image/image1.jpg)
-<!-- ![AARON JULY](https://media-exp1.licdn.com/dms/image/C5616AQHiijUg6vCBMQ/profile-displaybackgroundimage-shrink_350_1400/0/1642829079723?e=1653523200&v=beta&t=q_Q8k9TSDGHBJW_TeAHrx1j0p3_iIUTPKPls8InWuDM) -->
+<!-- ![](image/image1.jpg) -->
+![AARON JULY](https://media-exp1.licdn.com/dms/image/C5616AQFWwrv0TV9q8A/profile-displaybackgroundimage-shrink_350_1400/0/1650430497186?e=2147483647&v=beta&t=yOTWm0J_lhd4XSwXEOX47_dScBnVNgvrbk-fDXaOoIQ)
 
 
 # AARON JULY
