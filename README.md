@@ -6,8 +6,7 @@
 # AARON JULY
 
 
-An aspiring freelance web developer. I aim to join a leading tech team with goals to build a ready-to-use solution for local clients.
-
+An aspiring Frontend Development professional eager to work on business-critical projects, and gain relevant work experience. 
 
 <hr>
 
