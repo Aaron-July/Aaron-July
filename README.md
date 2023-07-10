@@ -1,47 +1,31 @@
+![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
+<h1 align="center">Hi 👋, I'm Aaron July</h1>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" >
 
-<!-- ![](image/image1.jpg) -->
-![AARON JULY](https://media-exp1.licdn.com/dms/image/C5616AQFWwrv0TV9q8A/profile-displaybackgroundimage-shrink_350_1400/0/1650430497186?e=2147483647&v=beta&t=yOTWm0J_lhd4XSwXEOX47_dScBnVNgvrbk-fDXaOoIQ)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaron-july&label=Profile%20views&color=0e75b6&style=flat" alt="aaron-july" /> </p>
 
+- 🔭 I’m currently working on [Rentifax Website](https://aaron-july.github.io/Aristomas-limited)
 
-# AARON JULY
+- 🌱 I’m currently learning **React Native**
 
+- 💬 Ask me about **Html, Css, Js**
 
-An aspiring Frontend Development professional eager to work on business-critical projects, and gain relevant work experience. 
+- 📫 How to reach me **aaronjulya@gmail.com**
 
-<hr>
+- ⚡ Fun fact **Goal driven & Resilient**
 
-## SKILLS AND EXPERIENCE:<br>
--  JavaScript
--  jQuery
--  Bootstrap
--  Wireframing
--  CSS
--  HTML
--  Analytical
--  Responsive design
--  Interpersonal
--  Testing and debugging
--  Back-end basics
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aaron-july" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-july" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.agbiaowei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.agbiaowei" height="30" width="40" /></a>
+</p>
 
-## PROJECT LINKS:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-- Simon Game (https://aaron-july.github.io/Simon-Game/)
-- Tindog Website (https://aaron-july.github.io/Tindog-website/)
-- Drum-kit (https://aaron-july.github.io/Drum-Kit/)
-- Personal Website (https://aaron-july.github.io/personalwebsite/)
-- CV Website (https://aaron-july.github.io/my-cv/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaron-july&show_icons=true&locale=en&layout=compact" alt="aaron-july" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron-july&show_icons=true&locale=en" alt="aaron-july" /></p>
 
-
-## WORK IN PROGRESS:
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Python 
-- 🤔 I’m seeking to connect with other programmers to help improve my programming skills 
-
-## SOCIALS:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aaron-July)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Aaron-July/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/july.aaron.589)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Mr.ajuly/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/July_Agbiaowei)  
-
-##
-
-![Profile views](https://gpvc.arturio.dev/Aaron-July)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-July&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-July)](https://github.com/anuraghazra/github-readme-stats) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaron-july&" alt="aaron-july" /></p>
